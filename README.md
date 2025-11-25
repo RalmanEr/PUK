@@ -43,6 +43,9 @@ if __name__ == "__main__":
 
 ## 📦 Установка
 ```bash
+python main.py
+
 # Клонировать репозиторий
 git clone https://github.com/ВАШ_ЛОГИН/password-generator.git
 cd password-generator
+
